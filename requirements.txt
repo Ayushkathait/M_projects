@@ -1,0 +1,6 @@
+#  will have all the packages 
+
+pandas
+seaborn
+numpy
+-e .
